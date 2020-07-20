@@ -10,6 +10,5 @@
 	1. review last weeks max peak
 	2. Finding the longest peak  (extension of last weeks problem)
 	3. Max String problem 
-	4. 
+	
 4. Sorting.  Behind the scenes.  
-5. Overload the python sort method.
