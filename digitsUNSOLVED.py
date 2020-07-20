@@ -22,15 +22,11 @@ print ( getLastNumber( k ) )     #  8
 def digits( number ):
     nums = []
 
-    # Process that we repeat,  when do we stop ??
-    while number > 0:
+    # Process that we repeat,  when do we stop ?
         # take off the last number
-        nums.append( getLastNumber( number ) )
         # get ride of the last number
-        number = getRidOfLastNum( number )
 
     # before we return nums, we have to reverse the list
-    nums.reverse()
     
     return nums
 
