@@ -1,4 +1,4 @@
-## Python lesson:  Sorting and driving to closest point (July 12)
+## Python lesson July 12
 
 
 1. Quiz on last weeks material 
